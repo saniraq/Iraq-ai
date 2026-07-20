@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iraq-ai.tk/sitemap.xml
